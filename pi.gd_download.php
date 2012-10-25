@@ -7,10 +7,10 @@
                 'pi_author'      => 'Godat Design/Richard Whitmer',  
                 'pi_author_url'  => 'http://www.godatdesign.com',  
                 'pi_description' => 'Forces a file download of a filename passed in the URL from a directory passed in the plugin params',  
-                'pi_usage'       => gd_download::usage()  
+                'pi_usage'       => Gd_download::usage()  
                 );
                 
-            class gd_download {
+            class Gd_download {
 
                 var $path;
                
