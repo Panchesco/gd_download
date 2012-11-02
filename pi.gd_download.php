@@ -48,7 +48,7 @@
                 ?>
                 
                 Simple plugin to force downloads from a directory.
-                In template you're calling the file from add the following:
+                In template you're calling the file from, add the following:
                 {exp:gd_download file_name="somefilename.ext" path="path/to_file/from_webroot"}
                 
                 To protect files based on user group, upload files to a non-web accessible directory
