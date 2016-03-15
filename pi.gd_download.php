@@ -14,7 +14,7 @@
 
                 var $path;
                
-               function gd_download()
+               function __construct()
                {
                 
                 $this->EE =& get_instance();
@@ -42,7 +42,7 @@
                 // This function describes how the plugin is used.  
                 //  Make sure and use output buffering  
                   
-                function usage()  
+                public static function usage()  
                 {  
                 ob_start();                
                 ?>
