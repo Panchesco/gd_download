@@ -1,7 +1,7 @@
-gd_download
+Good at Downloads
 ===============
 
-Simple plugin to force downloads from a directory.
+Simple ExpressionEngine plugin to force downloads from a directory.
 
 ##Usage
 
